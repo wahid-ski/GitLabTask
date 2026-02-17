@@ -1,10 +1,2 @@
-Lab Task 1 [Mid Term]
-Create a GitHub repository named GitLabTask. It must contain:
-Upload a blank .txt file (from your desktop’s folder) to the repository using git commands.
-Perform initial commit [put a initial message].
-Upload the .txt file (from your desktop’s folder) again to the repository using git commands.
-The updated .txt file must contain your name and id. 
-Also add a figure of random cartoon.
-Also add the slides I uploaded in teams.
-Perform updated commit [put a updated message].
- 
+Name : Albari Yasir Wahid
+ID : 23-53137-3
